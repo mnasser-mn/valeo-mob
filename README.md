@@ -63,11 +63,11 @@ This will start the process of "ejecting" from Create React Native App's build s
 
 Expo provides free hosting for the JS-only apps created by CRNA, allowing you to share your app through the Expo client app. This requires registration for an Expo account.
 
-Install the `exp` command-line tool, and run the publish command:
+Install the `expo` command-line tool, and run the publish command:
 
 ```
-$ npm i -g exp
-$ exp publish
+$ npm i -g expo-cli
+$ expo publish
 ```
 
 ### Building an Expo "standalone" app
@@ -84,7 +84,7 @@ just install expo go scan the code from the dev server or copy the link
 
 ### Build to android or IOS 
 you have 2 options 
-- you can eject then build or you can build using expo services by running expo build:variant(android-ios) this will take you on some steps then you will have your build ready for hosting 
+- you can eject then build or you can build using expo services by running `expo build:variant[android-ios]` this will take you on some steps then you will have your build ready for hosting 
 
 
 
