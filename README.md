@@ -14,8 +14,8 @@ This project was bootstrapped with [expo cli ]
 * [Sharing and Deployment](#sharing-and-deployment)
   * [Publishing to Expo's React Native Community](#publishing-to-expos-react-native-community)
   * [Building an Expo "standalone" app](#building-an-expo-standalone-app)
-*[Running on andoird or ios is simple]
-*[Build to android or IOS ]
+*[Running on andoird or ios is simple](running)
+*[Build to android or IOS ](deployment)
 
 ## Updating to New Releases
 
